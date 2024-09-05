@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Ecommerce\\Ecommerce-BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF136A8-160B-4318-A99F-F5221DC830B6}|Ecommerce-BackEnd\\Ecommerce-BackEnd.csproj|c:\\users\\orange\\desktop\\ecommerce\\ecommerce-backend\\ecommerce-backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF136A8-160B-4318-A99F-F5221DC830B6}|Ecommerce-BackEnd\\Ecommerce-BackEnd.csproj|solutionrelative:ecommerce-backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF136A8-160B-4318-A99F-F5221DC830B6}|Ecommerce-BackEnd\\Ecommerce-BackEnd.csproj|c:\\users\\orange\\desktop\\ecommerce\\ecommerce-backend\\ecommerce-backend\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF136A8-160B-4318-A99F-F5221DC830B6}|Ecommerce-BackEnd\\Ecommerce-BackEnd.csproj|solutionrelative:ecommerce-backend\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF136A8-160B-4318-A99F-F5221DC830B6}|Ecommerce-BackEnd\\Ecommerce-BackEnd.csproj|c:\\users\\orange\\desktop\\ecommerce\\ecommerce-backend\\ecommerce-backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF136A8-160B-4318-A99F-F5221DC830B6}|Ecommerce-BackEnd\\Ecommerce-BackEnd.csproj|solutionrelative:ecommerce-backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF136A8-160B-4318-A99F-F5221DC830B6}|Ecommerce-BackEnd\\Ecommerce-BackEnd.csproj|c:\\users\\orange\\desktop\\ecommerce\\ecommerce-backend\\ecommerce-backend\\dto\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF136A8-160B-4318-A99F-F5221DC830B6}|Ecommerce-BackEnd\\Ecommerce-BackEnd.csproj|solutionrelative:ecommerce-backend\\dto\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Ecommerce\\Ecommerce-BackEnd\\Ecommerce-BackEnd\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Ecommerce-BackEnd\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Ecommerce\\Ecommerce-BackEnd\\Ecommerce-BackEnd\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Ecommerce-BackEnd\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAtwIEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:11:06.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Ecommerce\\Ecommerce-BackEnd\\Ecommerce-BackEnd\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Ecommerce-BackEnd\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Ecommerce\\Ecommerce-BackEnd\\Ecommerce-BackEnd\\Models\\Product.cs",
+              "RelativeToolTip": "Ecommerce-BackEnd\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:30:59.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Ecommerce\\Ecommerce-BackEnd\\Ecommerce-BackEnd\\DTO\\ProductRequestDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce-BackEnd\\DTO\\ProductRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Ecommerce\\Ecommerce-BackEnd\\Ecommerce-BackEnd\\DTO\\ProductRequestDTO.cs",
+              "RelativeToolTip": "Ecommerce-BackEnd\\DTO\\ProductRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:28:25.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Ecommerce\\Ecommerce-BackEnd\\Ecommerce-BackEnd\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Ecommerce-BackEnd\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Ecommerce\\Ecommerce-BackEnd\\Ecommerce-BackEnd\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Ecommerce-BackEnd\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:18:46.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
